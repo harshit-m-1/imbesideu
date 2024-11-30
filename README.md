@@ -1,3 +1,4 @@
+# This repository contains a zip file with all the required code
 # Messaging Service Prototype  
 
 ## Overview  
